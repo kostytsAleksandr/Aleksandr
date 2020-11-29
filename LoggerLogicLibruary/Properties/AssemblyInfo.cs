@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GitTestingConsole")]
+[assembly: AssemblyTitle("LoggerLogicLibruary")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GitTestingConsole")]
+[assembly: AssemblyProduct("LoggerLogicLibruary")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b9352e6e-968c-4c0f-84f0-b8c92e8ed82f")]
+[assembly: Guid("cc5c554e-1405-49a2-8e3b-3309e9830e11")]
 
 // Version information for an assembly consists of the following four values:
 //
